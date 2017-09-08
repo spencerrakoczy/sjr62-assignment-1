@@ -1,0 +1,11 @@
+h3.fancy {
+	color: BlueViolet;
+	font-style: italic;
+}
+#funky {
+	color: Coral;
+	font-style: oblique;
+}
+p {
+	font-family: Arial;
+}
